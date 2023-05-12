@@ -1,0 +1,5 @@
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/lib/pkgconfig/dynamixel_workbench_controllers.pc
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/lib/dynamixel_workbench_controllers/find_dynamixel
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/lib/dynamixel_workbench_controllers/dynamixel_workbench_controllers
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig-version.cmake
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig.cmake

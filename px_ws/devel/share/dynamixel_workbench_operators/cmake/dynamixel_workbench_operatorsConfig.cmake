@@ -1,0 +1,1 @@
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake

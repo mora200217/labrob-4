@@ -1,0 +1,2 @@
+dynamixel_workbench
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/.private/dynamixel_workbench/cmake.lock /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/./cmake.lock

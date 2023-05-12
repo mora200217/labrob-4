@@ -1,0 +1,5 @@
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/lib/dynamixel_workbench_operators/joint_operator
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/lib/dynamixel_workbench_operators/wheel_operator
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
+Symlinking /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake

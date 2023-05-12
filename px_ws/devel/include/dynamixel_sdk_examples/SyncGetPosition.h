@@ -1,0 +1,1 @@
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/.private/dynamixel_sdk_examples/include/dynamixel_sdk_examples/SyncGetPosition.h

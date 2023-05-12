@@ -1,0 +1,13 @@
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/download_extra_data.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/tests.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/run_tests.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/clean_test_results.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/doxygen.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/_catkin_empty_exported_target.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/test.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/edit_cache.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/rebuild_cache.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/list_install_components.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/install.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/install/local.dir
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/build/dynamixel_workbench/CMakeFiles/install/strip.dir
