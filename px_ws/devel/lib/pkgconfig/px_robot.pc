@@ -1,0 +1,1 @@
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel/.private/px_robot/lib/pkgconfig/px_robot.pc

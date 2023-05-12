@@ -1,0 +1,6 @@
+devel_space: /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/devel
+install: false
+install_space: /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/install
+profile: default
+source_space: /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws/src
+workspace: /Users/amoralesma/Documents/UN/robotica/labs/labrob-4/px_ws
